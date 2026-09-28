@@ -1,12 +1,23 @@
-# Microsoft Access Animal Management System
+# Microsoft Access Database Development
 
-A relational database application developed with Microsoft Access, VBA, SQL, and DAO for managing animal records, locations, categories, and feeding requirements.
+A portfolio project demonstrating practical database development with Microsoft Access, VBA, SQL, and DAO.
 
 ## Project Overview
 
-I developed this project as a Microsoft Access database application for managing and searching animal records.
+I implemented and extended a relational Microsoft Access database application for managing animal records.
 
-The application combines relational database design with interactive Access forms and VBA automation. Users can filter animals by location, view detailed information, display related animals, and search for animals based on their daily food requirements.
+The application includes interactive forms, record navigation, detail views, VBA event procedures, queries, and relational data structures.
+
+In addition to the animal management application, this repository documents selected SQL and DAO exercises completed as part of my practical database development work.
+
+The repository demonstrates my practical work with:
+
+- Microsoft Access forms and controls
+- VBA event-driven programming
+- SQL queries
+- DAO and Recordsets
+- Relational tables and queries
+- Record filtering and navigation
 
 ## Application Preview
 
