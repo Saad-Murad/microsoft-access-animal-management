@@ -8,6 +8,12 @@ I developed this project as a Microsoft Access database application for managing
 
 The application combines relational database design with interactive Access forms and VBA automation. Users can filter animals by location, view detailed information, display related animals, and search for animals based on their daily food requirements.
 
+## Application Preview
+
+The following screenshot shows the animal inventory form implemented in Microsoft Access. The form displays animal records and provides controls for closing the form and opening detailed information for the selected animal.
+
+![Microsoft Access Animal Inventory Form](tier-inventory-form.png)
+
 ## Features
 
 - Display and manage animal records
